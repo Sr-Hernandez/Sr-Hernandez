@@ -10,7 +10,7 @@ Hola! <br>Me llamo Ángel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Hernandez&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sr-Hernandez&icon=0&color=8)](https://visitcount.itsvg.in)

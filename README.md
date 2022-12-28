@@ -1,4 +1,4 @@
-# 👾 Angel Hernandez <img width="100px" src="https://angelhernandez.work/assets/imgs/logo.png">
+# 👾 Angel Hernandez <img width="80px" src="https://angelhernandez.work/assets/imgs/logo.png">
 
 Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub  <br>
 soy ingeniero en sistemas con mas de 2 años de experiencia 

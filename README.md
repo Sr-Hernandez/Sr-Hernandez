@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hola! <br>Me llamo Ángel
+# 👾 Angel Hernandez 
+
+Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub <br>
+soy ingeniero en sistemas con mas de 2 años de experiencia 
 
 
 # 💻 Tech Stack:

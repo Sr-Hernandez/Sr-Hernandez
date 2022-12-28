@@ -1,6 +1,6 @@
-# 👾 Angel Hernandez 
+# 👾 Angel Hernandez <img width="100px" src="https://angelhernandez.work/assets/imgs/logo.png">
 
-Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub <img width="100px" src="https://angelhernandez.work/assets/imgs/logo.png"> <br>
+Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub  <br>
 soy ingeniero en sistemas con mas de 2 años de experiencia 
 
 

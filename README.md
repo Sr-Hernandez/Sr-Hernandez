@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://github.com/Sr-Hernandez)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:angelurquijo10@gmail.com)
+[![Gmail](https://angelhernandez.work/assets/imgs/logo.png)](mailto:angelurquijo10@gmail.com)
+<br>
 Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub  <br>
 soy ingeniero en sistemas con mas de 2 años de experiencia 
 

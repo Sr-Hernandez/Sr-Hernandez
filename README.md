@@ -5,7 +5,9 @@
 
 <br>
 Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub  <br>
-soy ingeniero en sistemas con mas de 2 años de experiencia 
+soy ingeniero en sistemas con mas de 2 años de experiencia <br>
+Me gusta diseñar cosas que sean muy útiles para las personas
+
 
 
 # 💻 Tech Stack:

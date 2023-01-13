@@ -20,6 +20,7 @@ Me gusta diseñar cosas que sean muy útiles para las personas
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔎
-![](https://visitcount.itsvg.in/api?id=Sr-Hernandez&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sr-Hernandez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+

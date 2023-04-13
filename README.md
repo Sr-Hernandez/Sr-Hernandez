@@ -4,9 +4,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:angelurquijo10@gmail.com)
 
 <br>
-Hola! <br>Me llamo Ángel, gracias por visitar mi perfil de GitHub  <br>
-soy ingeniero en sistemas con mas de 2 años de experiencia <br>
-Me gusta diseñar cosas que sean muy útiles para las personas
+¡Hola! Soy Ángel, ingeniero en sistemas con más de 2 años de experiencia en el desarrollo de software. Me apasiona diseñar y crear soluciones tecnológicas útiles para mejorar la vida de las personas. En mi perfil de GitHub encontrarás algunos de mis proyectos personales y colaborativos en los que he trabajado. Me encanta aprender y experimentar con nuevas tecnologías, y siempre estoy en busca de nuevos retos para seguir creciendo profesionalmente. ¡Gracias por visitar mi perfil!
+
+
+
+
 
 
 
